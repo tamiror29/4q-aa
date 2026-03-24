@@ -1,0 +1,99 @@
+.homebg {
+    background-image: url("https://i.pinimg.com/1200x/4e/7f/d8/4e7fd853de22ef91c0645bf3559bf93a.jpg");
+    background-size: cover;
+}
+
+.indexbg {
+    background-image: url("https://i.pinimg.com/1200x/1e/4c/6f/1e4c6fd2675bcd467a4c6e53bf55d641.jpg");
+    background-size: cover;
+}
+
+.congratsbg {
+    background-image: url("https://i.pinimg.com/736x/fb/b4/f5/fbb4f51ef730d4745300355281bcf34f.jpg");
+    background-size: cover;
+}
+
+.header img {
+    width: 67px;
+    height: 67px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(4, 14, 100);
+}
+ h5 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(18, 217, 231);
+ }
+h2 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(240, 25, 25);
+}
+
+.start h1 {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(4, 14, 100);
+
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px; 
+}
+
+label {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(246, 246, 1);
+    font-size: x-large;
+}
+
+input {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+}
+
+.start {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    font-size: x-large;
+    gap: 20px;
+}
+
+p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(29, 22, 168);
+}
+
+#output {
+    display: flex;
+    justify-content: center; 
+    align-items: center;    
+    margin-top: 10px;      
+    margin-bottom: 100px;   
+    margin-left: auto;      
+    margin-right: auto;     
+    color: black;
+    background-color: white;
+    padding: 25px 40px;       
+    border-radius: 10px;       
+    width: 200px;            
+    text-align: center;
+}
